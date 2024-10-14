@@ -141,5 +141,3 @@ Below are hand-drawn sketches of the initial concept, further refined and proces
 - **Software**: Tensoid app for smartphones/smartwatches, powered by 5G/Wi-Fi communication.
 - **Materials**: Carbon fiber reinforced polymer, Polyurethane bands with magnetic coupling for flexibility.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
