@@ -59,14 +59,6 @@ The **PI NEXLINE PiezoWalk** actuator is designed for both lifting and holding a
 [Watch PI NEXLINE PiezoWalk in action](https://www.youtube.com/watch?v=PMmutw8N2K8)
 <br><br>
 
-Another view of the **PI NEXLINE PiezoWalk** actuator demonstrating its lifting and holding capabilities with minimal wear:
-
-<img src="https://github.com/user-attachments/assets/d192551f-9cca-4b5a-be58-cfc3baa7eddb" width="40%">
-<br>
-<figcaption style="text-align: center;">Alternate view of the <strong>PI NEXLINE PiezoWalk</strong> actuator.</figcaption>
-<br><br>
-
-
 
 ### Actuators
 ![Actuators](https://github.com/user-attachments/assets/f780c933-5955-43b4-b6fe-77ce5cd7e230)
