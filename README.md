@@ -39,7 +39,7 @@ Initial hand drawn drawings (processed through photoshop)
 
 ![image](https://github.com/user-attachments/assets/bb917bcf-ec07-45bc-9860-e4fb50cf0de7)
 
-![image](https://github.com/user-attachments/assets/ac78b4a9-40a8-44a3-ae67-cb4c066a022e)
+![image](https://github.com/user-attachments/assets/838cf2e9-3b8a-4cb3-b52b-13665d03a26b)
 
 ## Project Goals
 1. **Injury Prevention**: Monitor muscle and tendon stress to prevent overstraining.
