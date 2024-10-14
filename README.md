@@ -10,6 +10,34 @@ Wearable device to measure muscle and tendon tension for injury prevention in at
 - Wireless data transmission to smartphones or smartwatches via 5G/Wi-Fi for instant feedback.
 - AMOLED touchscreen display for direct data visualization.
 
+## stress strain
+
+![image](https://github.com/user-attachments/assets/28c13f5f-e973-49d9-b1c5-88b1d821756b)
+
+'Toe' regio: 
+maximaal twee procent uitrekking
+Lineaire regio:
+uitrekking van twee tot vier procent
+maximale peesspanning
+lineair verband tussen peesspanning en belasting
+Regio van falen:
+voorbij fysiologische bovengrens
+niet meer terug keren naar oorspronkelijke toestand
+
+Verband: peesspanning = (golfsnelheid2 * dichtheid pees) - (K* afschuifmodulus)
+K is correctiefactor (K < 1)
+Martin et al.(2018)
+In lineaire regio:
+Afschuifmodulus << peesspanning
+Vereenvoudigd verband: peesspanning = (golfsnelheid2 * dichtheid pees)
+
+
+## Y-koppeling tik middengedeelte
+
+![image](https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4)
+
+![image](https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429)
+
 ## Structure
 ![image](https://github.com/user-attachments/assets/903d75d9-6370-446c-86e5-f995c508ff2f)
 
@@ -30,6 +58,13 @@ Display
 ![image](https://github.com/user-attachments/assets/bf1beb0f-2864-4501-aba4-f7664edc1133)
 
 Design and meausrements
+
+piezomotor
+
+![image](https://github.com/user-attachments/assets/2af0ac2e-53e9-49c5-80d7-926287f21380)
+
+
+https://www.youtube.com/watch?v=6fXBp_KJyVw
 
 ![image](https://github.com/user-attachments/assets/9cda93f2-416a-489f-8cf2-8677d863bb11)
 
