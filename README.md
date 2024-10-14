@@ -34,11 +34,12 @@ The device has three key components connected by Y-couplings:
 ### Y-Coupling Components
 <figure style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="50%">
-  <figcaption>The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
+  <figcaption style="text-align: center;">The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/c382ec80-5b0d-4bfb-bc2c-5e6d1397e3b2" width="50%">
+  <figcaption style="text-align: center;">Corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
 </figure>
 
 
