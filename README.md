@@ -31,16 +31,28 @@ The device has three key components connected by **Y-couplings**:
 ## Device Structure
 The device has three key components connected by Y-couplings:
 
-### Y-Coupling Components
-<img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="40%">
-<br>
-<figcaption style="text-align: center;">The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
-<br><br>
+### PILine Ultrasonic Piezomotor
+The **PILine Ultrasonic Piezomotor** enables precise linear horizontal movement along the y-axis, with a range of 5 mm to the left or right. The coupling element is in direct contact with the Y-shaped plate, and any wear particles generated during operation are collected in a dedicated compartment.
 
-<img src="https://github.com/user-attachments/assets/c382ec80-5b0d-4bfb-bc2c-5e6d1397e3b2" width="40%">
-<br>
-<figcaption style="text-align: center;">Corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
-<br><br>
+![PILine Ultrasonic Piezomotor](https://github.com/user-attachments/assets/cc784a4a-a86c-4b40-bea2-15f46a321d91)
+
+<div style="display: flex; justify-content: space-around;">
+  <figure style="text-align: center; margin-right: 20px;"><img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="40%"><figcaption>The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption></figure>
+  <figure style="text-align: center;"><img src="https://github.com/user-attachments/assets/c382ec80-5b0d-4bfb-bc2c-5e6d1397e3b2" width="40%"><figcaption>Corresponding actuators enable controlled movement with minimal energy loss.</figcaption></figure>
+</div>
+
+[Watch PILine Ultrasonic Piezomotor in action](https://www.youtube.com/watch?v=6fXBp_KJyVw)
+
+### PI NEXLINE PiezoWalk
+The **PI NEXLINE PiezoWalk** actuator is designed for both lifting and holding applications, featuring minimal wear due to its frictionless operation.
+
+![PI NEXLINE PiezoWalk](https://github.com/user-attachments/assets/e3244293-ebea-44c4-ab00-059e67839962)
+
+[Watch PI NEXLINE PiezoWalk in action](https://www.youtube.com/watch?v=PMmutw8N2K8)
+
+Another view of the **PI NEXLINE PiezoWalk** actuator demonstrating its lifting and holding capabilities with minimal wear:
+
+![PI NEXLINE PiezoWalk Alternate View](https://github.com/user-attachments/assets/d192551f-9cca-4b5a-be58-cfc3baa7eddb)
 
 
 ### Actuators
