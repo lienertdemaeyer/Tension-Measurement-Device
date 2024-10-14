@@ -29,10 +29,10 @@ Equation for tendon tension:
 The device has three key components connected by **Y-couplings**:
 
 ### Y-Coupling Components
-![Y-Coupling Midsection](https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4){ width=50% }
+<img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="50%">
 - The **Y-coupling midsection** allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.
 
-![Y-Coupling Detailed](https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429){ width=50% }
+<img src="https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429" width="50%">
 - Features ceramic plates (Si3N4) to reduce friction and enhance durability.
 
 ### Actuators
@@ -103,9 +103,9 @@ The **Tensoid** is unique in the market with no direct competitors, offering adv
 ## Initial Design Sketches
 Below are hand-drawn sketches of the initial concept, further refined and processed for manufacturing.
 
-![Sketch 1](https://github.com/user-attachments/assets/9eee6567-0f46-401b-8dd5-b0e22beab924){ width=50% }
-![Sketch 2](https://github.com/user-attachments/assets/bb917bcf-ec07-45bc-9860-e4fb50cf0de7){ width=50% }
-![Sketch 3](https://github.com/user-attachments/assets/838cf2e9-3b8a-4cb3-b52b-13665d03a26b){ width=50% }
+<img src="https://github.com/user-attachments/assets/9eee6567-0f46-401b-8dd5-b0e22beab924" width="50%">
+<img src="https://github.com/user-attachments/assets/bb917bcf-ec07-45bc-9860-e4fb50cf0de7" width="50%">
+<img src="https://github.com/user-attachments/assets/838cf2e9-3b8a-4cb3-b52b-13665d03a26b" width="50%">
 
 ## Technology Stack
 - **Hardware**: Piezoelectric sensors, miniature accelerometers, Qualcomm Snapdragon 888+ for AI processing.
