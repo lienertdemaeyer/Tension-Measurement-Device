@@ -38,7 +38,9 @@ The device has three key components connected by Y-couplings:
 ### PILine Ultrasonic Piezomotor
 The **PILine Ultrasonic Piezomotor** enables precise linear horizontal movement along the y-axis, with a range of 5 mm to the left or right. The coupling element is in direct contact with the Y-shaped plate, and any wear particles generated during operation are collected in a dedicated compartment.
 
-![PILine Ultrasonic Piezomotor](https://github.com/user-attachments/assets/cc784a4a-a86c-4b40-bea2-15f46a321d91)
+- Linear horizontal movement (along the y-axis) 5 mm to the right or left
+- Coupling element in contact with Y-shaped plate
+- Wear particles collected in the corresponding space
 
 <img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="40%">
 <br>
