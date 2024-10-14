@@ -15,7 +15,11 @@ Key Features:
 Tendons are collagen-based tissues that connect muscles to bones, absorbing impact during movement. The Tensoid uses **piezoelectric sensors** and **miniature accelerometers** to measure tendon stress and dynamics.
 
 ### Stress-Strain Relationship
-![Stress-Strain Diagram](https://github.com/user-attachments/assets/28c13f5f-e973-49d9-b1c5-88b1d821756b)
+<img src="https://github.com/user-attachments/assets/28c13f5f-e973-49d9-b1c5-88b1d821756b" width="40%">
+<br>
+<figcaption style="text-align: center;">Stress-Strain Diagram</figcaption>
+<br><br>
+
 
 - **Toe Region**: Maximum elongation of up to 2%.
 - **Linear Region**: Elongation between 2-4%, indicating a linear relationship between tendon stress and load.
