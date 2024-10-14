@@ -29,11 +29,9 @@ Equation for tendon tension:
 The device has three key components connected by **Y-couplings**:
 
 ### Y-Coupling Components
-<img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="50%">
-- The **Y-coupling midsection** allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.
+<figure style="text-align: center;"><img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" width="50%"><figcaption>The **Y-coupling midsection** allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption></figure>
 
-<img src="https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429" width="50%">
-- Features ceramic plates (Si3N4) to reduce friction and enhance durability.
+<figure style="text-align: center;"><img src="https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429" width="50%"><figcaption>Features ceramic plates (Si3N4) to reduce friction and enhance durability.</figcaption></figure>
 
 ### Actuators
 ![Actuators](https://github.com/user-attachments/assets/f780c933-5955-43b4-b6fe-77ce5cd7e230)
