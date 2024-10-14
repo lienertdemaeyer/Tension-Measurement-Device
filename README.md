@@ -29,7 +29,16 @@ Equation for tendon tension:
 The device has three key components connected by **Y-couplings**:
 
 ### Y-Coupling Components
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; flex-wrap: nowrap;"> <figure style="text-align: center; margin: 0 20px; width: 25%;"> <img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" style="width: 100%; height: auto;"> <figcaption>The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption> </figure> <figure style="text-align: center; margin: 0 20px; width: 25%;"> <img src="https://github.com/user-attachments/assets/c382ec80-5b0d-4bfb-bc2c-5e6d1397e3b2" style="width: 100%; height: auto;"> </figure> </div>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; flex-wrap: nowrap;">
+  <figure style="text-align: center; margin: 0 20px; width: 20%;">
+    <img src="https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4" style="width: 100%; height: auto;">
+    <figcaption>The <strong>Y-coupling midsection</strong> allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.</figcaption>
+  </figure>
+  <figure style="text-align: center; margin: 0 20px; width: 20%;">
+    <img src="https://github.com/user-attachments/assets/c382ec80-5b0d-4bfb-bc2c-5e6d1397e3b2" style="width: 100%; height: auto;">
+  </figure>
+</div>
+
 
 
 
