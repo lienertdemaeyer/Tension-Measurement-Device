@@ -1,80 +1,89 @@
-![image](https://github.com/user-attachments/assets/8ea2e772-1bca-407e-99a8-8fd42a7f87fa)
-
 # Tension-Measurement-Device
 
-Wearable device to measure muscle and tendon tension for injury prevention in athletes, integrating Piezoelectric sensors and actuators.
+A wearable device designed to measure muscle and tendon tension for injury prevention in athletes. It integrates advanced sensing technologies, including piezoelectric sensors and actuators, to monitor and provide real-time feedback on muscle performance.
 
-## Features
-- Real-time muscle tension monitoring using Piezoelectric sensors and miniature accelerometers.
-- Durable design using carbon fiber reinforced polymer for high strength and low wear.
-- Wireless data transmission to smartphones or smartwatches via 5G/Wi-Fi for instant feedback.
-- AMOLED touchscreen display for direct data visualization.
+## Introduction
+The **Tension-Measurement-Device (Tensoid)** is a portable tensiometer developed for athletes, particularly those involved in high-performance sports. The device aims to help prevent injuries by monitoring muscle and tendon stress.
 
-## stress strain
+Key Features:
+- **Real-time Monitoring**: Measure muscle and tendon tension.
+- **Durable Design**: Made from carbon fiber reinforced polymer for high strength and low wear.
+- **Wireless Data Transmission**: Supports 5G/Wi-Fi to connect with smartphones or smartwatches for instant feedback.
+- **AMOLED Touchscreen Display**: View data directly on the device.
 
-![image](https://github.com/user-attachments/assets/28c13f5f-e973-49d9-b1c5-88b1d821756b)
+## Muscle-Tendon Dynamics
+Tendons are collagen-based tissues that connect muscles to bones, absorbing impact during movement. The Tensoid uses **piezoelectric sensors** and **miniature accelerometers** to measure tendon stress and dynamics.
 
-'Toe' regio: 
-maximaal twee procent uitrekking
-Lineaire regio:
-uitrekking van twee tot vier procent
-maximale peesspanning
-lineair verband tussen peesspanning en belasting
-Regio van falen:
-voorbij fysiologische bovengrens
-niet meer terug keren naar oorspronkelijke toestand
+### Stress-Strain Relationship
+![Stress-Strain Diagram](https://github.com/user-attachments/assets/28c13f5f-e973-49d9-b1c5-88b1d821756b)
 
-Verband: peesspanning = (golfsnelheid2 * dichtheid pees) - (K* afschuifmodulus)
-K is correctiefactor (K < 1)
-Martin et al.(2018)
-In lineaire regio:
-Afschuifmodulus << peesspanning
-Vereenvoudigd verband: peesspanning = (golfsnelheid2 * dichtheid pees)
+- **Toe Region**: Maximum elongation of up to 2%.
+- **Linear Region**: Elongation between 2-4%, indicating a linear relationship between tendon stress and load.
+- **Failure Region**: Beyond the physiological limit, the tendon cannot return to its original state.
 
+Equation for tendon tension:
+- **Tendon Tension** = (wave speed² * tendon density) - (K * shear modulus)
+  - In the linear region, the relationship simplifies to **Tendon Tension** = (wave speed² * tendon density).
 
-## Y-koppeling tik middengedeelte
+## Device Structure
+The device has three key components connected by **Y-couplings**:
 
-![image](https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4)
+### Y-Coupling Components
+![Y-Coupling Midsection](https://github.com/user-attachments/assets/a94bdf60-f9f1-471d-b1eb-ec67e7bed3e4)
+- The **Y-coupling midsection** allows interaction with corresponding actuators to achieve controlled movement with minimal energy loss.
 
-![image](https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429)
+![Y-Coupling Detailed](https://github.com/user-attachments/assets/c2fa9f15-03e5-4603-8ca9-823c116eb429)
+- Features ceramic plates (Si3N4) to reduce friction and enhance durability.
 
-## Structure
-![image](https://github.com/user-attachments/assets/903d75d9-6370-446c-86e5-f995c508ff2f)
+### Actuators
+![Actuators](https://github.com/user-attachments/assets/f780c933-5955-43b4-b6fe-77ce5cd7e230)
+- Includes **PICMA stacked multilayer piezo actuators**, **PILine ultrasonic piezomotors**, and **PI NEXLINE PiezoWalk**.
+- Designed to provide precise movement control with low wear.
 
-Actuators
+### Polyurethane Strap
+![Polyurethane Strap](https://github.com/user-attachments/assets/34f9671c-cfdc-4c6a-bb19-65ce8895410d)
+- Strong, flexible, water-resistant, with magnetic coupling for safety in case of accidents.
 
-![image](https://github.com/user-attachments/assets/f780c933-5955-43b4-b6fe-77ce5cd7e230)
+### Casing Material
+- Made from **carbon fiber reinforced polymer (CFRP)** for a lightweight yet strong build, suitable for biological applications like protheses.
+- **High thermal conductivity** helps dissipate heat away from internal components.
 
-Polyurethane strap
+## Sensors and Chip Technology
+The **Tensoid** integrates different sensors to measure muscle and tendon activity:
 
-![image](https://github.com/user-attachments/assets/34f9671c-cfdc-4c6a-bb19-65ce8895410d)
+### Miniature Accelerometer
+![Accelerometer](https://github.com/user-attachments/assets/903d75d9-6370-446c-86e5-f995c508ff2f)
+- **3225F series accelerometer**: Provides 1mV/g sensitivity and is housed in a titanium casing for durability.
 
-Tensoid Interface
+### Chip Technology
+- Equipped with **Qualcomm Snapdragon 888+** for on-device AI processing, supporting efficient 5G connectivity.
 
-![image](https://github.com/user-attachments/assets/16fe0674-9d88-4926-a18f-2f5080bb552b)
+## Display and User Interface
+The Tensoid features a **full-color AMOLED touchscreen** that allows users to interact with the device and view real-time data.
 
-Display
+### Display
+![AMOLED Display](https://github.com/user-attachments/assets/bf1beb0f-2864-4501-aba4-f7664edc1133)
+- 18-inch touchscreen panel that is lightweight and cost-effective.
 
-![image](https://github.com/user-attachments/assets/bf1beb0f-2864-4501-aba4-f7664edc1133)
+## Functionality
+The Tensoid software provides detailed analysis of tendon activity and feedback to improve workout performance:
 
-Design and meausrements
+- **Real-Time Data Visualization**: Monitor **transverse tendon acceleration** and identify critical points.
+- **Wireless Communication**: Uses 5G/Wi-Fi to connect with the **Tensoid app** on smartphones or smartwatches.
+- **Tenselink Functionality**: Allows multiple Tensoids to be linked together for advanced data analysis.
 
-piezomotor
+## Market Positioning
+The **Tensoid** is unique in the market with no direct competitors, offering advanced muscle and tendon monitoring that extends beyond traditional heart rate monitors.
 
-![image](https://github.com/user-attachments/assets/2af0ac2e-53e9-49c5-80d7-926287f21380)
+### Strengths and Opportunities
+- **Versatile**: Suitable for multiple muscle groups and sports.
+- **Durable and User-Friendly**: Uses materials and design optimized for longevity and ease of use.
+- **Potential Opportunities**: Integration with popular fitness trackers and further optimization of the design for cost reduction.
 
-
-https://www.youtube.com/watch?v=6fXBp_KJyVw
-
-![image](https://github.com/user-attachments/assets/9cda93f2-416a-489f-8cf2-8677d863bb11)
-
-Initial hand drawn drawings (processed through photoshop)
-
-![image](https://github.com/user-attachments/assets/9eee6567-0f46-401b-8dd5-b0e22beab924)
-
-![image](https://github.com/user-attachments/assets/bb917bcf-ec07-45bc-9860-e4fb50cf0de7)
-
-![image](https://github.com/user-attachments/assets/838cf2e9-3b8a-4cb3-b52b-13665d03a26b)
+## Challenges and Solutions
+- **Market Uncertainty**: Conducted market studies to gauge interest.
+- **High Manufacturing Costs**: Simplified design to reduce costs while maintaining functionality.
+- **Risk of Copycats**: Patented the design to prevent counterfeiting.
 
 ## Project Goals
 1. **Injury Prevention**: Monitor muscle and tendon stress to prevent overstraining.
@@ -82,16 +91,26 @@ Initial hand drawn drawings (processed through photoshop)
 3. **Advanced Sensing**: Utilize high-precision sensors for detailed analysis of muscle performance.
 4. **Durable Build**: Lightweight and resistant to environmental wear and tear, perfect for sports use.
 
+## Usage Instructions
+1. **Attachment**: Secure the device to the muscle or tendon area to be monitored.
+2. **Monitoring**: Use the AMOLED display or the Tensoid app to monitor real-time data.
+3. **Workout Feedback**: Adjust workout intensity based on the feedback provided by the Tensoid.
+
+## Future Improvements
+- **Integration with Fitness Apps**: Compatibility with popular fitness tracking apps.
+- **Enhanced Sensor Precision**: Further advancements in sensor accuracy and battery life.
+
+## Initial Design Sketches
+Below are hand-drawn sketches of the initial concept, further refined and processed for manufacturing.
+
+![Sketch 1](https://github.com/user-attachments/assets/9eee6567-0f46-401b-8dd5-b0e22beab924)
+![Sketch 2](https://github.com/user-attachments/assets/bb917bcf-ec07-45bc-9860-e4fb50cf0de7)
+![Sketch 3](https://github.com/user-attachments/assets/838cf2e9-3b8a-4cb3-b52b-13665d03a26b)
+
 ## Technology Stack
 - **Hardware**: Piezoelectric sensors, miniature accelerometers, Qualcomm Snapdragon 888+ for AI processing.
 - **Software**: Tensoid app for smartphones/smartwatches, powered by 5G/Wi-Fi communication.
 - **Materials**: Carbon fiber reinforced polymer, Polyurethane bands with magnetic coupling for flexibility.
 
-## Usage
-1. Attach the device to the muscle or tendon area to be monitored.
-2. View real-time data on the device’s display or connect to the Tensoid app for detailed analysis.
-3. Use feedback from the app to adjust workout intensity and prevent injuries.
-
-## Future Improvements
-- Integration with popular fitness apps.
-- Enhanced sensor precision and battery life.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
