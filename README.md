@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a4867ce3-0289-454f-a493-79c06624a97c)
+
 # Tension-Measurement-Device
 
 Wearable device to measure muscle and tendon tension for injury prevention in athletes, integrating Piezoelectric sensors and actuators.
