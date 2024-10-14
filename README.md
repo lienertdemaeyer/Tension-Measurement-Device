@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4867ce3-0289-454f-a493-79c06624a97c)
+![image](https://github.com/user-attachments/assets/8ea2e772-1bca-407e-99a8-8fd42a7f87fa)
 
 # Tension-Measurement-Device
 
