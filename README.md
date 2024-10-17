@@ -2,6 +2,8 @@
 
 A wearable device designed to measure muscle and tendon tension for injury prevention in athletes. It integrates advanced sensing technologies, including piezoelectric sensors and actuators, to monitor and provide real-time feedback on muscle performance.
 
+![image](https://github.com/user-attachments/assets/b8d4b103-425a-4c8a-adce-a2880b3ad038)
+
 ## Introduction
 The **Tension-Measurement-Device (Tensoid)** is a portable tensiometer developed for athletes, particularly those involved in high-performance sports. The device aims to help prevent injuries by monitoring muscle and tendon stress.
 
